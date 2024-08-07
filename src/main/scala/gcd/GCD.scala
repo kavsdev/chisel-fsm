@@ -43,4 +43,6 @@ object GCD extends App {
     new GCD,
     firtoolOpts = Array("-disable-all-randomization", "-strip-debug-info")
   )
+
+
 }

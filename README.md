@@ -109,3 +109,9 @@ You are ready to go. We have a few recommended practices and things to do.
 
 Check out the [Chisel Users Community](https://www.chisel-lang.org/community.html) page for links to get in contact!
 ### initial change
+* install `sbt` from apt-get
+* install `make` from brew
+* install `verilator` from brew
+* install `gcc` from brew
+* install `build-essential` from apt-get
+* install `openjdk` from apt-get
